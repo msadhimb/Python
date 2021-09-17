@@ -1,0 +1,218 @@
+1625310346478	geckodriver	INFO	Listening on 127.0.0.1:63002
+1625310349539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofilepRN6VU"
+1625310350519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofilepRN6VU\\search.json.mozlz4", (void 0)))
+1625310356902	Marionette	INFO	Listening on port 63011
+1625310357131	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625310375086	Marionette	INFO	Stopped listening on port 63011
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625310417930	geckodriver	INFO	Listening on 127.0.0.1:63138
+1625310420966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileqp2FZZ"
+1625310422094	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileqp2FZZ\\search.json.mozlz4", (void 0)))
+1625310427128	Marionette	INFO	Listening on port 50982
+1625310427353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625310443107	Marionette	INFO	Stopped listening on port 50982
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625310507595	geckodriver	INFO	Listening on 127.0.0.1:63389
+1625310510634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofile5jBIAE"
+1625310511763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofile5jBIAE\\search.json.mozlz4", (void 0)))
+1625310516893	Marionette	INFO	Listening on port 63397
+1625310516993	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/firebase.fbd3352bc73050b085a2.js, line 1: SyntaxError: An invalid or illegal string was specified
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1625310541297	Marionette	INFO	Stopped listening on port 63397
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625310557959	geckodriver	INFO	Listening on 127.0.0.1:64292
+1625310561017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileKz6ziI"
+1625310561764	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileKz6ziI\\search.json.mozlz4", (void 0)))
+1625310566594	Marionette	INFO	Listening on port 65093
+1625310566889	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/4055.8b2bb6527c519aca7acd.js, line 1: NS_BINDING_ABORTED: 
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+1625310648115	Marionette	INFO	Stopped listening on port 65093
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625310801232	geckodriver	INFO	Listening on 127.0.0.1:53851
+1625310804267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileIW9QLh"
+1625310805140	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileIW9QLh\\search.json.mozlz4", (void 0)))
+1625310810072	Marionette	INFO	Listening on port 53859
+1625310810612	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/firebase.fbd3352bc73050b085a2.js, line 1: SyntaxError: An invalid or illegal string was specified
+1625310938087	Marionette	INFO	Stopped listening on port 53859
+1625311002976	geckodriver	INFO	Listening on 127.0.0.1:62125
+1625311006029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileentX9b"
+1625311006733	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileentX9b\\search.json.mozlz4", (void 0)))
+1625311011975	Marionette	INFO	Listening on port 62136
+1625311012398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625311033389	Marionette	INFO	Stopped listening on port 62136
+1625311318124	geckodriver	INFO	Listening on 127.0.0.1:52603
+1625311321191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofile3irjXb"
+1625311322003	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofile3irjXb\\search.json.mozlz4", (void 0)))
+1625311327354	Marionette	INFO	Listening on port 52611
+1625311327561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625311342965	Marionette	INFO	Stopped listening on port 52611
+1625311364041	geckodriver	INFO	Listening on 127.0.0.1:55527
+1625311367091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileclEUxC"
+1625311367812	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileclEUxC\\search.json.mozlz4", (void 0)))
+1625311372874	Marionette	INFO	Listening on port 55535
+1625311372999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625311411448	Marionette	INFO	Stopped listening on port 55535
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625311426225	geckodriver	INFO	Listening on 127.0.0.1:61722
+1625311429278	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofile73UVF6"
+1625311429899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofile73UVF6\\search.json.mozlz4", (void 0)))
+1625311434831	Marionette	INFO	Listening on port 61733
+1625311435110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1625311448426	Marionette	INFO	Stopped listening on port 61733
+1625311472989	geckodriver	INFO	Listening on 127.0.0.1:61849
+1625311476069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofilewsb4Vm"
+1625311476796	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofilewsb4Vm\\search.json.mozlz4", (void 0)))
+1625311481600	Marionette	INFO	Listening on port 61857
+1625311481903	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 108: Error: Got a request https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/bundle.57f2340d2c93b768b35e.css without a browsingContextID set
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/firebase.fbd3352bc73050b085a2.js, line 1: SyntaxError: An invalid or illegal string was specified
+1625311614933	Marionette	INFO	Stopped listening on port 61857
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1625316521093	geckodriver	INFO	Listening on 127.0.0.1:63938
+1625316524149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileTO5xkM"
+1625316524919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileTO5xkM\\search.json.mozlz4", (void 0)))
+1625316529310	Marionette	INFO	Listening on port 63946
+1625316529472	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+1625316630960	Marionette	INFO	Stopped listening on port 63946
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofilee2uScv"
+1625316629042	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofilee2uScv\\search.json.mozlz4", (void 0)))
+1625316633917	Marionette	INFO	Listening on port 55267
+1625316634094	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://click.accesstrade.co.id/js/nct/lp.js, line 1: SyntaxError: redeclaration of const LP_UNIX_TIME_0_IN_GMT
+1625316701691	Marionette	INFO	Stopped listening on port 55267
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628420195944	geckodriver	INFO	Listening on 127.0.0.1:61552
+1628420199041	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileD1djbi"
+1628420200029	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileD1djbi\\search.json.mozlz4", (void 0)))
+1628420204786	Marionette	INFO	Listening on port 61560
+1628420204920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: Error: Loading CSS chunk 2668 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/2668.acd6daac5c25ed973553.css)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: ChunkLoadError: Loading chunk 6025 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/6025.2d528ef4a2fc8aff24d3.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: ChunkLoadError: Loading chunk 8688 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/8688.a09b7a95fa2d46dcbfe2.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: ChunkLoadError: Loading chunk 7119 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/shopee-phonelib.d61503fbc4a5335ee30b.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: ChunkLoadError: Loading chunk 7119 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/shopee-phonelib.d61503fbc4a5335ee30b.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: ChunkLoadError: Loading chunk 1242 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/InformationBlockID.f063a87aefc4930522c3.js)
+1628420296573	Marionette	INFO	Stopped listening on port 61560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628420300520	geckodriver	INFO	Listening on 127.0.0.1:53404
+1628420303582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofile0y21Nt"
+1628420304502	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofile0y21Nt\\search.json.mozlz4", (void 0)))
+1628420308886	Marionette	INFO	Listening on port 53421
+1628420309559	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: chrome://marionette/content/driver.js, line 2245: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1628420309908	Marionette	INFO	Stopped listening on port 53421
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628420320556	geckodriver	INFO	Listening on 127.0.0.1:54559
+1628420323619	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileW8kzYJ"
+1628420324339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\adhim\\AppData\\Local\\Temp\\rust_mozprofileW8kzYJ\\search.json.mozlz4", (void 0)))
+1628420328716	Marionette	INFO	Listening on port 54567
+1628420328959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: ChunkLoadError: Loading chunk 8688 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/8688.a09b7a95fa2d46dcbfe2.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: ChunkLoadError: Loading chunk 7119 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/shopee-phonelib.d61503fbc4a5335ee30b.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: ChunkLoadError: Loading chunk 7119 failed.
+(error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/shopee-phonelib.d61503fbc4a5335ee30b.js)
+JavaScript error: https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/webpack-runtime.6b16b1db31dabd4a0e0e.js, line 1: Error: Loading CSS chunk 2668 failed.
+(https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/2668.acd6daac5c25ed973553.css)
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628422082607	Marionette	INFO	Stopped listening on port 54567
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
