@@ -1,0 +1,115 @@
+#:import utils kivy.utils
+Screen:
+
+    MDCard:
+        size_hint: None, None
+        size: 400, 300
+        pos_hint: {"center_x": 0.5, "center_y": 0.5}
+        elevation: 10
+        padding: 30
+        spacing: 25
+        orientation: 'vertical'
+
+        MDLabel:
+            id : text1
+            text: 'Pencari Huruf Vokal'
+            font_size: 25
+            halign: 'center'
+            bold: True
+
+        TextInput:
+            id : text
+            hint_text: 'Masukkan tulisan yang ingin anda cari huruf vokalnya'
+            size_hint_x: None
+            width: 300
+            size_hint_y: None
+            height: 100
+            font_size: 13
+            pos_hint: {"center_x": 0.5}
+            background_normal: ''
+            background_color: utils.get_color_from_hex('#595959')
+
+        MDRoundFlatButton:
+            text: 'Enter'
+            font_size: 15
+            pos_hint: {"center_x": 0.5}
+            on_press: app.eek()
+    MDLabel:
+        id : text2
+        text: ''
+        font_size: 10
+        halign: 'center'
+        bold: True
+        size_hint_y: None
+        height: self.texture_size[1]
+        padding_y: 15
+
+    MDLabel:
+        id : text3
+        text: ''
+        font_size: 10
+        halign: 'center'
+        bold: True
+        size_hint_y: None
+        height: self.texture_size[1]
+        padding_y: 15
+
+    MDLabel:
+        id : satu
+        text: ''
+        font_size: 5
+        halign: 'left'
+        bold: True
+        size_hint_y: None
+        height: self.texture_size[1]
+        padding_y: 15
+
+    MDLabel:
+        id : dua
+        text: ''
+        font_size: 5
+        halign: 'left'
+        bold: True
+        size_hint_y: None
+        height: self.texture_size[1]
+        padding_y: 15
+
+    MDLabel:
+        id : tiga
+        text: ''
+        font_size: 5
+        halign: 'left'
+        bold: True
+        size_hint_y: None
+        height: self.texture_size[1]
+        padding_y: 15
+
+    MDLabel:
+        id : empat
+        text: ''
+        font_size: 5
+        halign: 'left'
+        bold: True
+        size_hint_y: None
+        height: self.texture_size[1]
+        padding_y: 15
+
+    MDLabel:
+        id : lima
+        text: ''
+        font_size: 5
+        halign: 'left'
+        bold: True
+        size_hint_y: None
+        height: self.texture_size[1]
+        padding_y: 15
+
+    MDLabel:
+        id : enam
+        text: ''
+        font_size: 5
+        halign: 'left'
+        bold: True
+        size_hint_y: None
+        height: self.texture_size[1]
+        padding_y: 15
